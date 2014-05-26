@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appA/appA.iml" filepath="$PROJECT_DIR$/appA/appA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appB/appB.iml" filepath="$PROJECT_DIR$/appB/appB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02.iml" filepath="$PROJECT_DIR$/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04/ch04.iml" filepath="$PROJECT_DIR$/ch04/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05/ch05.iml" filepath="$PROJECT_DIR$/ch05/ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/ch06.iml" filepath="$PROJECT_DIR$/ch06/ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/ch07.iml" filepath="$PROJECT_DIR$/ch07/ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08/ch08.iml" filepath="$PROJECT_DIR$/ch08/ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09/ch09.iml" filepath="$PROJECT_DIR$/ch09/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10/ch10.iml" filepath="$PROJECT_DIR$/ch10/ch10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11/ch11.iml" filepath="$PROJECT_DIR$/ch11/ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12/ch12.iml" filepath="$PROJECT_DIR$/ch12/ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/ch13.iml" filepath="$PROJECT_DIR$/ch13/ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ch14.iml" filepath="$PROJECT_DIR$/ch14/ch14.iml" />
+      <module fileurl="file://F:/Mac Driver/master/ES_batch/offers-product-roller-esk490/offers-product-roller-esk490.iml" filepath="F:/Mac Driver/master/ES_batch/offers-product-roller-esk490/offers-product-roller-esk490.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbia-parent.iml" filepath="$PROJECT_DIR$/sbia-parent.iml" />
+    </modules>
+  </component>
+</project>
+
